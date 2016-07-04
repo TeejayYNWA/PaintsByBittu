@@ -1,0 +1,58 @@
+.page-header {
+	background-color:#080833;
+	color:#FFFFFF;
+	padding: 30px 40px;
+	font-size: 45px;
+	font-weight: bold;
+	margin: 0;
+}
+
+.navbar {
+	background-color: #080833;
+	border-radius: 0;
+	text-align: center;
+}
+
+.navbar .navbar-nav {
+	display: inline-block;
+	float: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+	color: #FFFFFF;
+}
+
+.navbar-default{
+	border: 0;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #fff;
+}
+
+.panel-heading {
+	background: #080833;
+	color: #fff;
+	border-color: #080833;
+}
+
+button {
+	background-color: #338007;
+	color: #fff;
+	font-size: 20px;
+	border-radius: 6px;
+}
+
+
+select.canvasSizeControl{
+	margin-left: 25px;
+}
+
+.Price {
+	color:#338007;
+}
