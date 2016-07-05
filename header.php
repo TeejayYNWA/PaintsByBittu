@@ -7,7 +7,7 @@
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
           integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-    <link rel="stylesheet" href="/New/CSS/Theme.css">
+    <link rel="stylesheet" href="/CSS/Theme.css">
 
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -45,10 +45,10 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li><a href="http://localhost/New/Home.php">Home</a></li>
-                <li><a href="http://localhost/New/Gallary2.php">Gallery</a></li>
-                <li><a href="http://localhost/New/Me.php">About </a></li>
-                <li><a href="http://localhost/New/Contact.php">Contact Us</a></li>
+                <li><a href="/index.php">Home</a></li>
+                <li><a href="/Gallary2.php">Gallery</a></li>
+                <li><a href="/Me.php">About </a></li>
+                <li><a href="/Contact.php">Contact Us</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
