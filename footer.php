@@ -1,6 +1,6 @@
 </div>
 <footer>
-    <p align="center"">Copyright 2016</p>
+    <p class="text-center">Copyright <?php echo date("Y");?></p>
 </footer>
 </body>
 </html>
