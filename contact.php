@@ -25,7 +25,7 @@ $Contact = $ContactQuery->fetch(PDO::FETCH_ASSOC);
 
                 <div class="row">
                     <div class="col-xs-12 col-md-6">
-                        <form method="post" action="Contact.php">
+                        <form method="post" action="contact.php">
                             <div class="form-group">
                                 <label for="InputFirstName">First Name</label>
                                 <input type="text" class="form-control" id="InputFirstName" placeholder="First Name">
@@ -33,7 +33,7 @@ $Contact = $ContactQuery->fetch(PDO::FETCH_ASSOC);
                     </div>
 
                     <div class="col-xs-12 col-md-6">
-                        <form method="post" action="Contact.php">
+                        <form method="post" action="contact.php">
                             <div class="form-group">
                                 <label for="InputSurname">Surname</label>
                                 <input type="text" class="form-control" id="InputSurname" placeholder="Surname">

@@ -11,5 +11,5 @@ require('header.php');
   >
 
 <?php
-require('Footer.php');
+require('footer.php');
 ?>

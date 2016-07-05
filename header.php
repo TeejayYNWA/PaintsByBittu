@@ -46,9 +46,9 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li><a href="/index.php">Home</a></li>
-                <li><a href="/Gallary2.php">Gallery</a></li>
-                <li><a href="/Me.php">About </a></li>
-                <li><a href="/Contact.php">Contact Us</a></li>
+                <li><a href="/gallary2.php">Gallery</a></li>
+                <li><a href="/me.php">About </a></li>
+                <li><a href="/contact.php">Contact Us</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->

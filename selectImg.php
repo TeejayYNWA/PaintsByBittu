@@ -54,7 +54,7 @@ $NameArray = $Names->fetchAll(PDO::FETCH_ASSOC);
 
                 <div class="row">
                     <div class="col-xs-3">
-                        <form method="post" action="SelectImgPrice.php">
+                        <form method="post" action="selectImgPrice.php">
                             <label for="size" class="sr-only">Size</label>
                             <select name="size" id="size" class="canvasSizeControl">
                                 <option value="A4">A4 Print</option>
